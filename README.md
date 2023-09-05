@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**haazaa/haazaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Character Specs:**
+```diff
++    :wave: Rana Ameer Hamza
++    :eyes: Software Developer 
++    +3 React, Next, TS, Node, Express
++    :computer: Code Enthusiast 
++    :rocket: Tech Explorer 
+```
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+ 
+**Reach Out:**
+```diff
+- :mailbox: WhatsApp +923065382938 
+- :e-mail: Email rh172728@gmail.com 
+```
+**Portfolio:**
