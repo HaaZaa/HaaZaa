@@ -1,17 +1,17 @@
-
+![image](https://github.com/haazaa/haazaa/assets/95012948/bb3b34ec-49e2-466d-903e-e43c629c0dc2)
 **Character Specs:**
 ```diff
-+    :wave: Rana Ameer Hamza
-+    :eyes: Software Developer 
++    👋 Rana Ameer Hamza
++    👀 Software Developer 
 +    +3 React, Next, TS, Node, Express
-+    :computer: Code Enthusiast 
-+    :rocket: Tech Explorer 
++    💻 Code Enthusiast 
++    🚀 Tech Explorer 
 ```
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
  
 **Reach Out:**
 ```diff
-- :mailbox: WhatsApp +923065382938 
-- :e-mail: Email rh172728@gmail.com 
+-    📫 WhatsApp +923065382938 
+-    📧 rh172728@gmail.com 
 ```
 **Portfolio:**
