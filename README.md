@@ -6,12 +6,12 @@
 ```diff
 +    🧑‍💼 About Me:
 +
-+    💻 I’m currently working at 👀 ...
-+    👨‍💻 I convert coffee into code using MERN/MEVN Stack ...
-+    ♾️ I deploy code to cloud (DevOps) ...
-+    👯 Collaborating on cool and open source projects ...
-+    💬 Ask me about anything ...
-+    📫 How to reach me: <a href="https://www.linkedin.com/in/ranaameerhamzanoor/">hi@ranaameerhamzanoor</a> ...
++    💻   I’m currently working at 👀 ...
++    👨‍💻   I convert coffee into code using MERN/MEVN Stack ...
++    ♾️    I deploy code to cloud (DevOps) ...
++    👯   Collaborating on cool and open source projects ...
++    💬   Ask me about anything ...
++    📫   How to reach me: <a href="https://www.linkedin.com/in/ranaameerhamzanoor/">hi@ranaameerhamzanoor</a> ...
 ```
 I love coding in MERN/MEVN Stack and occassionally participate in hackathons.
 
@@ -21,15 +21,14 @@ I love coding in MERN/MEVN Stack and occassionally participate in hackathons.
 Here are some ideas to get you started:
 -->
 
-
-
 ⚡ Fun fact:
 
--   🧑‍💻     I was 9 when I started learing HTML.
--   🖥️     I have worked in IT for over half my life.
--   📊     I have developed and deployed over 300 projects combined.
--   📚     I'm reading a book about financial technology to familiarize myself with the industry and its ongoing trends.
--   🥇     I occasionally participate in hackathons.
+-   🧑‍💻     I started debugging code before I knew what debugging meant!
+-   🧠     I love tackling complex algorithms – they’re like puzzles waiting to be cracked.
+-   🌍     I’ve contributed to several open-source projects, leaving a small mark on the dev community.
+-   🛠️     When I’m not coding, I’m building side projects for fun.
+-   🔍     I’m always experimenting with new frameworks and tools – staying ahead of the curve is the name of the game.
+-   🎧     My best ideas come when I'm deep in code, with synthwave tracks in the background.
 -   :pencil2: I Write blogs on free days.
 -   :musical_note: I love to hear Lo-Fi music.
 
