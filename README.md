@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=haazaa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=haazaa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![haazaa's current streak](https://streak-stats.demolab.com/?user=haazaa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
